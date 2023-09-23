@@ -1,3 +1,6 @@
+// 학번 : 32202643
+// 이름 : 여지훈
+
 #include <stdio.h>
 #include <stdlib.h>
 
